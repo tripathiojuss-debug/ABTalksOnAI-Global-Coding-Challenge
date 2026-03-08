@@ -11,8 +11,8 @@ This repository contains my daily solutions for the **ABTalksOnAI Global Coding 
 
 Day 3 – [Palindrome Number](Day-03/)  
 Day 4 – [FizzBuzz](Day-04/) 
-Day 5 – [Two Sum](Day-05/)  
-Day 6 – [Running Sum](Day-06/)  
+Day 5 – [Stpes_to_reduce_a_number_to_zero](Day-05/)  
+Day 6 – [Power_of_two](Day-06/)  
 
 ---
 
