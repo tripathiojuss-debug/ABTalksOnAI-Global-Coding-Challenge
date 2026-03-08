@@ -1,5 +1,5 @@
 # FUNCTION
-def power_of_two(n):
+def Power_of_two(n):
     if(n==1):
         return True
     if(n<=0):
@@ -11,7 +11,7 @@ def power_of_two(n):
     return False
 # Main Function
 n=int(input("Input a number : "))
-if(power_of_two(n)):
+if(Power_of_two(n)):
     print("YES")
 else : print("NO")
     
