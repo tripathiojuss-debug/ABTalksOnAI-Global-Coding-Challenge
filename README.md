@@ -9,22 +9,14 @@ This repository contains my daily solutions for the **ABTalksOnAI Global Coding 
 
 ## 📅 Daily Progress
 
-Day 1 – [Two Sum](Day-01/)  
-Day 2 – [Running Sum](Day-02/)  
 Day 3 – [Palindrome Number](Day-03/)  
-Day 4 – [FizzBuzz](Day-04/)  
+Day 4 – [FizzBuzz](Day-04/) 
+Day 5 – [Two Sum](Day-05/)  
+Day 6 – [Running Sum](Day-06/)  
 
 ---
 
 ## 📂 Repository Structure
-
-Day-1/
- ├── two_sum.cpp
- └── two_sum.py
-
-Day-2/
- ├── running_sum.cpp
- └── running_sum.py
 
 Day-3/
  ├── palindrome_number.cpp
@@ -33,6 +25,14 @@ Day-3/
 Day-4/
  ├── FizzBuzz.cpp
  └── FizzBuzz.py
+ 
+ Day-5/
+ ├── stpes_to_reduce_a_number_to_zero.cpp
+ └── stpes_to_reduce_a_number_to_zero.py
+
+Day-6/
+ ├── power_of_two.cpp
+ └── power_of_two.py
 
 
 ---
